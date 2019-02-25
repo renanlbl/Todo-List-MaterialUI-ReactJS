@@ -1,4 +1,4 @@
-# testetvmanager
+# Todo-List
 /*BACKEND*/ 
   1) É necessário ter mongodb instalado na máquina.
   2) Iniciar mongod no cmd 
@@ -12,3 +12,9 @@
   2) Instalar os pacotes (npm install)
   3) rodar (npm run dev)
   4) Por padrão vai rodar em http://localhost:8080/
+
+### Tecnologias utilizadas
+- ReactJS.
+- MaterialUi.
+- MongoDB.
+- Axios.
